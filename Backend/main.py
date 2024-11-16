@@ -13,6 +13,8 @@ def main():
             folder = "Set1"
         case "2":
             folder = "Set2"
+        case "3":
+            folder = "Set3"
         case _:
             print("Invalid set choice!")
             return
